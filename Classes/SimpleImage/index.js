@@ -11,7 +11,7 @@
  * @property {boolean} stretched - should image be stretched to full width of container
  */
 
-class SimpleImage {
+export default class SimpleImage {
     /**
      * Render plugin`s main Element and fill it with saved data
      *
